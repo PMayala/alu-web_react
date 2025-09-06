@@ -1,2 +1,2 @@
-# holbertonschool-web_react
+# Alu-web_react
 Repository for studying React
